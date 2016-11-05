@@ -22,26 +22,16 @@ The app written on Swift 3. It uses Cocoapods, SwiftyJSON, YouTubePlayer framewo
 ###Screens:
 
 #####First screen: 
-![alt text][scr1 | height=500]
+![alt text](https://github.com/maxbach/Catalogue/blob/master/Screenshots/First%20screen.png | height=500)
 
 #####Choosing films 
-![alt text][scr1 | height=500]
+![alt text](https://github.com/maxbach/Catalogue/blob/master/Screenshots/Choosing%20dilm.png | height=500)
 
 #####Main screen with info about film: 
-![alt text][scr1 | height=500]
+![alt text](https://github.com/maxbach/Catalogue/blob/master/Screenshots/Main%20screen.png | height=500)
 
 #####Last part of info screen: 
-![alt text][scr1 | height=500]
+![alt text](https://github.com/maxbach/Catalogue/blob/master/Screenshots/Scrolling.png | height=500)
 
 #####Screen for wayching youtube video in full screen: 
-![alt text][scr1 | height=500]
-
-[scr1]: https://github.com/maxbach/Catalogue/blob/master/Screenshots/First%20screen.png "Screen1"
-
-[scr2]: https://github.com/maxbach/Catalogue/blob/master/Screenshots/Choosing%20dilm.png "Screen2"
-
-[scr3]: https://github.com/maxbach/Catalogue/blob/master/Screenshots/Main%20screen.png "Screen3"
-
-[scr4]: https://github.com/maxbach/Catalogue/blob/master/Screenshots/Scrolling.png "Screen4"
-
-[scr5]: https://github.com/maxbach/Catalogue/blob/master/Screenshots/Youtube%20video.png "Screen5"
+![alt text](https://github.com/maxbach/Catalogue/blob/master/Screenshots/Youtube%20video.png | height=500)
