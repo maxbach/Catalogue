@@ -22,16 +22,16 @@ The app written on Swift 3. It uses Cocoapods, SwiftyJSON, YouTubePlayer framewo
 ###Screens:
 
 #####First screen: 
-<img src="Catalogue/Screenshots/First screen.png" alt="alt text" height="500">
+<img src="https://github.com/maxbach/Catalogue/blob/master/Screenshots/First%20screen.png" alt="alt text" height="500">
 
 #####Choosing films 
-<img src="Catalogue/Screenshots/Choosing dilm.png" alt="alt text" height="500">
+<img src="https://github.com/maxbach/Catalogue/blob/master/Screenshots/Choosing%20dilm.png" alt="alt text" height="500">
 
 #####Main screen with info about film: 
-<img src="Catalogue/Screenshots/Main screen.png" alt="alt text" height="500">
+<img src="https://github.com/maxbach/Catalogue/blob/master/Screenshots/Main%20screen.png" alt="alt text" height="500">
 
 #####Last part of info screen: 
-<img src="Catalogue/Screenshots/Scrolling.png" alt="alt text" height="500">
+<img src="https://github.com/maxbach/Catalogue/blob/master/Screenshots/Scrolling.png" alt="alt text" height="500">
 
 #####Screen for wayching youtube video in full screen: 
-<img src="Catalogue/Screenshots/Youtube video.png" alt="alt text" height="500">
+<img src="https://github.com/maxbach/Catalogue/blob/master/Screenshots/Youtube%20video.png" alt="alt text" height="500">
