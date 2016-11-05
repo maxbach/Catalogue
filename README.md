@@ -22,17 +22,16 @@ The app written on Swift 3. It uses Cocoapods, SwiftyJSON, YouTubePlayer framewo
 ###Screens:
 
 #####First screen: 
-![alt text](Catalogue/Screenshots/First screen.png | height=500)
+![alt text](/Catalogue/Screenshots/First screen.png | height=500)
 
 #####Choosing films 
-![alt text](Catalogue/Screenshots/Choosing dilm.png | height=500)
+![alt text](/Catalogue/Screenshots/Choosing dilm.png | height=500)
 
-Catalogue/Screenshots/Choosing dilm.png
 #####Main screen with info about film: 
-![alt text](Catalogue/Screenshots/Main screen.png | height=500)
+![alt text](/Catalogue/Screenshots/Main screen.png | height=500)
 
 #####Last part of info screen: 
-![alt text](Catalogue/Screenshots/Scrolling.png | height=500)
+![alt text](/Catalogue/Screenshots/Scrolling.png | height=500)
 
 #####Screen for wayching youtube video in full screen: 
-![alt text](Catalogue/Screenshots/Youtube video.png | height=500)
+![alt text](/Catalogue/Screenshots/Youtube video.png | height=500)
