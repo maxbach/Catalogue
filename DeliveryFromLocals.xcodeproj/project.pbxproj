@@ -7,24 +7,80 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C112BCA91DCB783400DDF635 /* FilmTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C112BCA81DCB783400DDF635 /* FilmTableViewCell.swift */; };
+		C112BCBE1DCBD8EC00DDF635 /* A Star Wars Story.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCAA1DCBD8EC00DDF635 /* A Star Wars Story.jpg */; };
+		C112BCBF1DCBD8EC00DDF635 /* Ant man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCAB1DCBD8EC00DDF635 /* Ant man.jpg */; };
+		C112BCC01DCBD8EC00DDF635 /* Avengers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCAC1DCBD8EC00DDF635 /* Avengers.jpg */; };
+		C112BCC11DCBD8EC00DDF635 /* Batman v Superman. Dawn of Justice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCAD1DCBD8EC00DDF635 /* Batman v Superman. Dawn of Justice.jpg */; };
+		C112BCC21DCBD8EC00DDF635 /* Captain America. The First Avenger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCAE1DCBD8EC00DDF635 /* Captain America. The First Avenger.jpg */; };
+		C112BCC31DCBD8EC00DDF635 /* Deadpool.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCAF1DCBD8EC00DDF635 /* Deadpool.jpg */; };
+		C112BCC41DCBD8EC00DDF635 /* Dr. Strange.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCB01DCBD8EC00DDF635 /* Dr. Strange.jpg */; };
+		C112BCC51DCBD8EC00DDF635 /* Guardians of the Galaxy.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCB11DCBD8EC00DDF635 /* Guardians of the Galaxy.jpg */; };
+		C112BCC61DCBD8EC00DDF635 /* Incredible hulk.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCB21DCBD8EC00DDF635 /* Incredible hulk.jpg */; };
+		C112BCC71DCBD8EC00DDF635 /* Iron man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCB31DCBD8EC00DDF635 /* Iron man.jpg */; };
+		C112BCC81DCBD8EC00DDF635 /* Justice league.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCB41DCBD8EC00DDF635 /* Justice league.jpg */; };
+		C112BCC91DCBD8EC00DDF635 /* Man of steel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCB51DCBD8EC00DDF635 /* Man of steel.jpg */; };
+		C112BCCA1DCBD8EC00DDF635 /* New Hope.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCB61DCBD8EC00DDF635 /* New Hope.jpg */; };
+		C112BCCB1DCBD8EC00DDF635 /* Suicide squad.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCB71DCBD8EC00DDF635 /* Suicide squad.jpg */; };
+		C112BCCC1DCBD8EC00DDF635 /* The dark knight.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCB81DCBD8EC00DDF635 /* The dark knight.jpg */; };
+		C112BCCD1DCBD8EC00DDF635 /* The Empire Strikes Back.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCB91DCBD8EC00DDF635 /* The Empire Strikes Back.jpg */; };
+		C112BCCE1DCBD8EC00DDF635 /* The Force Awakens.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCBA1DCBD8EC00DDF635 /* The Force Awakens.jpg */; };
+		C112BCCF1DCBD8EC00DDF635 /* Thor.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCBB1DCBD8EC00DDF635 /* Thor.jpg */; };
+		C112BCD01DCBD8EC00DDF635 /* Wolverine.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCBC1DCBD8EC00DDF635 /* Wolverine.jpg */; };
+		C112BCD11DCBD8EC00DDF635 /* X - Man.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCBD1DCBD8EC00DDF635 /* X - Man.jpg */; };
+		C112BCD81DCBDA9900DDF635 /* DC.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCD41DCBDA9900DDF635 /* DC.jpg */; };
+		C112BCD91DCBDA9900DDF635 /* Fox.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCD51DCBDA9900DDF635 /* Fox.jpg */; };
+		C112BCDA1DCBDA9900DDF635 /* Marvel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCD61DCBDA9900DDF635 /* Marvel.jpg */; };
+		C112BCDB1DCBDA9900DDF635 /* Star wars.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C112BCD71DCBDA9900DDF635 /* Star wars.jpg */; };
+		C125DD751DB4E4B0001C9013 /* StudioTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = C125DD741DB4E4B0001C9013 /* StudioTableViewCell.swift */; };
+		C125DD791DB51B74001C9013 /* text.json in Resources */ = {isa = PBXBuildFile; fileRef = C125DD781DB51B74001C9013 /* text.json */; };
 		C1A582B91DA2C67C00843C41 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A582B81DA2C67C00843C41 /* AppDelegate.swift */; };
-		C1A582BB1DA2C67C00843C41 /* CitiesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A582BA1DA2C67C00843C41 /* CitiesViewController.swift */; };
+		C1A582BB1DA2C67C00843C41 /* StudiosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A582BA1DA2C67C00843C41 /* StudiosViewController.swift */; };
 		C1A582BE1DA2C67C00843C41 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C1A582BC1DA2C67C00843C41 /* Main.storyboard */; };
 		C1A582C01DA2C67C00843C41 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1A582BF1DA2C67C00843C41 /* Assets.xcassets */; };
-		C1A582CD1DA2C76E00843C41 /* CategoryViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A582CC1DA2C76E00843C41 /* CategoryViewController.swift */; };
-		C1A582CF1DA2C7F800843C41 /* FoodViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A582CE1DA2C7F800843C41 /* FoodViewController.swift */; };
-		C1F42DDD1DAD71E90069C4CF /* 624923_original.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C1F42DDC1DAD71E90069C4CF /* 624923_original.jpg */; };
+		C1A582CD1DA2C76E00843C41 /* FilmViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A582CC1DA2C76E00843C41 /* FilmViewController.swift */; };
+		C1A582CF1DA2C7F800843C41 /* DescriptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A582CE1DA2C7F800843C41 /* DescriptionViewController.swift */; };
+		F0BC357FB83C2298D7143044 /* Pods_DeliveryFromLocals.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = C2839CE0F330B75111F19A7B /* Pods_DeliveryFromLocals.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		86C5C580A51D8C1595D5F801 /* Pods-DeliveryFromLocals.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeliveryFromLocals.release.xcconfig"; path = "Pods/Target Support Files/Pods-DeliveryFromLocals/Pods-DeliveryFromLocals.release.xcconfig"; sourceTree = "<group>"; };
+		C112BCA81DCB783400DDF635 /* FilmTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilmTableViewCell.swift; sourceTree = "<group>"; };
+		C112BCAA1DCBD8EC00DDF635 /* A Star Wars Story.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "A Star Wars Story.jpg"; path = "images/A Star Wars Story.jpg"; sourceTree = "<group>"; };
+		C112BCAB1DCBD8EC00DDF635 /* Ant man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Ant man.jpg"; path = "images/Ant man.jpg"; sourceTree = "<group>"; };
+		C112BCAC1DCBD8EC00DDF635 /* Avengers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Avengers.jpg; path = images/Avengers.jpg; sourceTree = "<group>"; };
+		C112BCAD1DCBD8EC00DDF635 /* Batman v Superman. Dawn of Justice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Batman v Superman. Dawn of Justice.jpg"; path = "images/Batman v Superman. Dawn of Justice.jpg"; sourceTree = "<group>"; };
+		C112BCAE1DCBD8EC00DDF635 /* Captain America. The First Avenger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Captain America. The First Avenger.jpg"; path = "images/Captain America. The First Avenger.jpg"; sourceTree = "<group>"; };
+		C112BCAF1DCBD8EC00DDF635 /* Deadpool.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Deadpool.jpg; path = images/Deadpool.jpg; sourceTree = "<group>"; };
+		C112BCB01DCBD8EC00DDF635 /* Dr. Strange.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Dr. Strange.jpg"; path = "images/Dr. Strange.jpg"; sourceTree = "<group>"; };
+		C112BCB11DCBD8EC00DDF635 /* Guardians of the Galaxy.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Guardians of the Galaxy.jpg"; path = "images/Guardians of the Galaxy.jpg"; sourceTree = "<group>"; };
+		C112BCB21DCBD8EC00DDF635 /* Incredible hulk.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Incredible hulk.jpg"; path = "images/Incredible hulk.jpg"; sourceTree = "<group>"; };
+		C112BCB31DCBD8EC00DDF635 /* Iron man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Iron man.jpg"; path = "images/Iron man.jpg"; sourceTree = "<group>"; };
+		C112BCB41DCBD8EC00DDF635 /* Justice league.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Justice league.jpg"; path = "images/Justice league.jpg"; sourceTree = "<group>"; };
+		C112BCB51DCBD8EC00DDF635 /* Man of steel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Man of steel.jpg"; path = "images/Man of steel.jpg"; sourceTree = "<group>"; };
+		C112BCB61DCBD8EC00DDF635 /* New Hope.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "New Hope.jpg"; path = "images/New Hope.jpg"; sourceTree = "<group>"; };
+		C112BCB71DCBD8EC00DDF635 /* Suicide squad.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Suicide squad.jpg"; path = "images/Suicide squad.jpg"; sourceTree = "<group>"; };
+		C112BCB81DCBD8EC00DDF635 /* The dark knight.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "The dark knight.jpg"; path = "images/The dark knight.jpg"; sourceTree = "<group>"; };
+		C112BCB91DCBD8EC00DDF635 /* The Empire Strikes Back.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "The Empire Strikes Back.jpg"; path = "images/The Empire Strikes Back.jpg"; sourceTree = "<group>"; };
+		C112BCBA1DCBD8EC00DDF635 /* The Force Awakens.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "The Force Awakens.jpg"; path = "images/The Force Awakens.jpg"; sourceTree = "<group>"; };
+		C112BCBB1DCBD8EC00DDF635 /* Thor.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Thor.jpg; path = images/Thor.jpg; sourceTree = "<group>"; };
+		C112BCBC1DCBD8EC00DDF635 /* Wolverine.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Wolverine.jpg; path = images/Wolverine.jpg; sourceTree = "<group>"; };
+		C112BCBD1DCBD8EC00DDF635 /* X - Man.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "X - Man.jpg"; path = "images/X - Man.jpg"; sourceTree = "<group>"; };
+		C112BCD41DCBDA9900DDF635 /* DC.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = DC.jpg; path = images/DC.jpg; sourceTree = "<group>"; };
+		C112BCD51DCBDA9900DDF635 /* Fox.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Fox.jpg; path = images/Fox.jpg; sourceTree = "<group>"; };
+		C112BCD61DCBDA9900DDF635 /* Marvel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = Marvel.jpg; path = images/Marvel.jpg; sourceTree = "<group>"; };
+		C112BCD71DCBDA9900DDF635 /* Star wars.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Star wars.jpg"; path = "images/Star wars.jpg"; sourceTree = "<group>"; };
+		C125DD741DB4E4B0001C9013 /* StudioTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StudioTableViewCell.swift; sourceTree = "<group>"; };
+		C125DD781DB51B74001C9013 /* text.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = text.json; sourceTree = "<group>"; };
 		C1A582B51DA2C67C00843C41 /* DeliveryFromLocals.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DeliveryFromLocals.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1A582B81DA2C67C00843C41 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		C1A582BA1DA2C67C00843C41 /* CitiesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CitiesViewController.swift; sourceTree = "<group>"; };
+		C1A582BA1DA2C67C00843C41 /* StudiosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudiosViewController.swift; sourceTree = "<group>"; };
 		C1A582BD1DA2C67C00843C41 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C1A582BF1DA2C67C00843C41 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		C1A582CC1DA2C76E00843C41 /* CategoryViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryViewController.swift; sourceTree = "<group>"; };
-		C1A582CE1DA2C7F800843C41 /* FoodViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FoodViewController.swift; sourceTree = "<group>"; };
-		C1F42DDC1DAD71E90069C4CF /* 624923_original.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = 624923_original.jpg; path = ../../../../../Downloads/624923_original.jpg; sourceTree = "<group>"; };
+		C1A582CC1DA2C76E00843C41 /* FilmViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FilmViewController.swift; sourceTree = "<group>"; };
+		C1A582CE1DA2C7F800843C41 /* DescriptionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DescriptionViewController.swift; sourceTree = "<group>"; };
+		C2839CE0F330B75111F19A7B /* Pods_DeliveryFromLocals.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_DeliveryFromLocals.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FA089556917D827AE338E6B0 /* Pods-DeliveryFromLocals.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DeliveryFromLocals.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DeliveryFromLocals/Pods-DeliveryFromLocals.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,17 +88,59 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F0BC357FB83C2298D7143044 /* Pods_DeliveryFromLocals.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		9446F42300CE847A44F3F7BA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				C2839CE0F330B75111F19A7B /* Pods_DeliveryFromLocals.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		C112BCD31DCBD90F00DDF635 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				C112BCAA1DCBD8EC00DDF635 /* A Star Wars Story.jpg */,
+				C112BCAB1DCBD8EC00DDF635 /* Ant man.jpg */,
+				C112BCAC1DCBD8EC00DDF635 /* Avengers.jpg */,
+				C112BCAD1DCBD8EC00DDF635 /* Batman v Superman. Dawn of Justice.jpg */,
+				C112BCD41DCBDA9900DDF635 /* DC.jpg */,
+				C112BCD51DCBDA9900DDF635 /* Fox.jpg */,
+				C112BCD61DCBDA9900DDF635 /* Marvel.jpg */,
+				C112BCD71DCBDA9900DDF635 /* Star wars.jpg */,
+				C112BCAE1DCBD8EC00DDF635 /* Captain America. The First Avenger.jpg */,
+				C112BCAF1DCBD8EC00DDF635 /* Deadpool.jpg */,
+				C112BCB01DCBD8EC00DDF635 /* Dr. Strange.jpg */,
+				C112BCB11DCBD8EC00DDF635 /* Guardians of the Galaxy.jpg */,
+				C112BCB21DCBD8EC00DDF635 /* Incredible hulk.jpg */,
+				C112BCB31DCBD8EC00DDF635 /* Iron man.jpg */,
+				C112BCB41DCBD8EC00DDF635 /* Justice league.jpg */,
+				C112BCB51DCBD8EC00DDF635 /* Man of steel.jpg */,
+				C112BCB61DCBD8EC00DDF635 /* New Hope.jpg */,
+				C112BCB71DCBD8EC00DDF635 /* Suicide squad.jpg */,
+				C112BCB81DCBD8EC00DDF635 /* The dark knight.jpg */,
+				C112BCB91DCBD8EC00DDF635 /* The Empire Strikes Back.jpg */,
+				C112BCBA1DCBD8EC00DDF635 /* The Force Awakens.jpg */,
+				C112BCBB1DCBD8EC00DDF635 /* Thor.jpg */,
+				C112BCBC1DCBD8EC00DDF635 /* Wolverine.jpg */,
+				C112BCBD1DCBD8EC00DDF635 /* X - Man.jpg */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
 		C1A582AC1DA2C67B00843C41 = {
 			isa = PBXGroup;
 			children = (
 				C1A582B71DA2C67C00843C41 /* DeliveryFromLocals */,
 				C1A582B61DA2C67C00843C41 /* Products */,
+				F396C803F85691DADC4E6B03 /* Pods */,
+				9446F42300CE847A44F3F7BA /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -57,14 +155,17 @@
 		C1A582B71DA2C67C00843C41 /* DeliveryFromLocals */ = {
 			isa = PBXGroup;
 			children = (
-				C1F42DDC1DAD71E90069C4CF /* 624923_original.jpg */,
 				C1A582CB1DA2C6AE00843C41 /* Other Files */,
 				C1A582B81DA2C67C00843C41 /* AppDelegate.swift */,
 				C1A582BC1DA2C67C00843C41 /* Main.storyboard */,
-				C1A582BA1DA2C67C00843C41 /* CitiesViewController.swift */,
-				C1A582CE1DA2C7F800843C41 /* FoodViewController.swift */,
-				C1A582CC1DA2C76E00843C41 /* CategoryViewController.swift */,
+				C125DD781DB51B74001C9013 /* text.json */,
+				C125DD741DB4E4B0001C9013 /* StudioTableViewCell.swift */,
+				C1A582BA1DA2C67C00843C41 /* StudiosViewController.swift */,
+				C112BCD31DCBD90F00DDF635 /* images */,
+				C1A582CE1DA2C7F800843C41 /* DescriptionViewController.swift */,
+				C1A582CC1DA2C76E00843C41 /* FilmViewController.swift */,
 				C1A582BF1DA2C67C00843C41 /* Assets.xcassets */,
+				C112BCA81DCB783400DDF635 /* FilmTableViewCell.swift */,
 			);
 			path = DeliveryFromLocals;
 			sourceTree = "<group>";
@@ -76,6 +177,15 @@
 			name = "Other Files";
 			sourceTree = "<group>";
 		};
+		F396C803F85691DADC4E6B03 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				FA089556917D827AE338E6B0 /* Pods-DeliveryFromLocals.debug.xcconfig */,
+				86C5C580A51D8C1595D5F801 /* Pods-DeliveryFromLocals.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -83,9 +193,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = C1A582C71DA2C67C00843C41 /* Build configuration list for PBXNativeTarget "DeliveryFromLocals" */;
 			buildPhases = (
+				EF73A328B97E3325852006C1 /* [CP] Check Pods Manifest.lock */,
 				C1A582B11DA2C67C00843C41 /* Sources */,
 				C1A582B21DA2C67C00843C41 /* Frameworks */,
 				C1A582B31DA2C67C00843C41 /* Resources */,
+				67190B88B15C4057192B34C1 /* [CP] Embed Pods Frameworks */,
+				11921274DB1A6DD1EE310684 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -135,22 +248,96 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C1F42DDD1DAD71E90069C4CF /* 624923_original.jpg in Resources */,
 				C1A582C01DA2C67C00843C41 /* Assets.xcassets in Resources */,
+				C112BCCA1DCBD8EC00DDF635 /* New Hope.jpg in Resources */,
+				C112BCC31DCBD8EC00DDF635 /* Deadpool.jpg in Resources */,
+				C112BCD01DCBD8EC00DDF635 /* Wolverine.jpg in Resources */,
+				C112BCD81DCBDA9900DDF635 /* DC.jpg in Resources */,
+				C112BCC91DCBD8EC00DDF635 /* Man of steel.jpg in Resources */,
+				C112BCCD1DCBD8EC00DDF635 /* The Empire Strikes Back.jpg in Resources */,
+				C112BCBE1DCBD8EC00DDF635 /* A Star Wars Story.jpg in Resources */,
+				C112BCDA1DCBDA9900DDF635 /* Marvel.jpg in Resources */,
+				C112BCC81DCBD8EC00DDF635 /* Justice league.jpg in Resources */,
+				C112BCCC1DCBD8EC00DDF635 /* The dark knight.jpg in Resources */,
+				C112BCCF1DCBD8EC00DDF635 /* Thor.jpg in Resources */,
+				C112BCD11DCBD8EC00DDF635 /* X - Man.jpg in Resources */,
+				C112BCC01DCBD8EC00DDF635 /* Avengers.jpg in Resources */,
 				C1A582BE1DA2C67C00843C41 /* Main.storyboard in Resources */,
+				C112BCD91DCBDA9900DDF635 /* Fox.jpg in Resources */,
+				C112BCC11DCBD8EC00DDF635 /* Batman v Superman. Dawn of Justice.jpg in Resources */,
+				C112BCCB1DCBD8EC00DDF635 /* Suicide squad.jpg in Resources */,
+				C112BCC51DCBD8EC00DDF635 /* Guardians of the Galaxy.jpg in Resources */,
+				C112BCDB1DCBDA9900DDF635 /* Star wars.jpg in Resources */,
+				C112BCC71DCBD8EC00DDF635 /* Iron man.jpg in Resources */,
+				C112BCC41DCBD8EC00DDF635 /* Dr. Strange.jpg in Resources */,
+				C125DD791DB51B74001C9013 /* text.json in Resources */,
+				C112BCC21DCBD8EC00DDF635 /* Captain America. The First Avenger.jpg in Resources */,
+				C112BCBF1DCBD8EC00DDF635 /* Ant man.jpg in Resources */,
+				C112BCCE1DCBD8EC00DDF635 /* The Force Awakens.jpg in Resources */,
+				C112BCC61DCBD8EC00DDF635 /* Incredible hulk.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		11921274DB1A6DD1EE310684 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DeliveryFromLocals/Pods-DeliveryFromLocals-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		67190B88B15C4057192B34C1 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-DeliveryFromLocals/Pods-DeliveryFromLocals-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		EF73A328B97E3325852006C1 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		C1A582B11DA2C67C00843C41 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C1A582BB1DA2C67C00843C41 /* CitiesViewController.swift in Sources */,
-				C1A582CD1DA2C76E00843C41 /* CategoryViewController.swift in Sources */,
-				C1A582CF1DA2C7F800843C41 /* FoodViewController.swift in Sources */,
+				C1A582BB1DA2C67C00843C41 /* StudiosViewController.swift in Sources */,
+				C1A582CD1DA2C76E00843C41 /* FilmViewController.swift in Sources */,
+				C125DD751DB4E4B0001C9013 /* StudioTableViewCell.swift in Sources */,
+				C112BCA91DCB783400DDF635 /* FilmTableViewCell.swift in Sources */,
+				C1A582CF1DA2C7F800843C41 /* DescriptionViewController.swift in Sources */,
 				C1A582B91DA2C67C00843C41 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -264,6 +451,7 @@
 		};
 		C1A582C81DA2C67C00843C41 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = FA089556917D827AE338E6B0 /* Pods-DeliveryFromLocals.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = DeliveryFromLocals/Info.plist;
@@ -276,6 +464,7 @@
 		};
 		C1A582C91DA2C67C00843C41 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 86C5C580A51D8C1595D5F801 /* Pods-DeliveryFromLocals.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = DeliveryFromLocals/Info.plist;

@@ -7,18 +7,27 @@
 //
 
 import UIKit
+import SwiftyJSON
+import YouTubePlayer
 
-class FoodViewController: UIViewController {
-    var cityName:String = ""
-    var categoryName:String = ""
-
-    @IBOutlet weak var buyButtonOutlet: UIButton!
+class DescriptionViewController: UIViewController {
+    var category:Int = -1
+    var json:JSON = [:]
+    
+    @IBOutlet weak var posterView: UIImageView!
+    @IBOutlet weak var descriptionView: UILabel!
+    
+    @IBOutlet var trailerView: YouTubePlayerView!
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        buyButtonOutlet.setTitle("Buy " + categoryName + " in " + cityName , for: UIControlState.normal)
         
-        // Do any additional setup after loading the view.
+        let posterName:String = json["poster"].stringValue;
+        self.posterView.image = UIImage(named: posterName);
+        self.descriptionView.text = json["description"].stringValue;
+        let videoPath : String = json["trailer"].stringValue;
+        let videoUrl : NSURL = NSURL(string: videoPath)!
+        trailerView.loadVideoURL(videoURL: videoUrl)
     }
 
     override func didReceiveMemoryWarning() {
